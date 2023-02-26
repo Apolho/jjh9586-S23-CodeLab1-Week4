@@ -1,5 +1,4 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Same as the other assignments
 
-DO NOT LEAVE IT LIKE THIS!!!
+A and D to move player. Collect fruit for score. When you get hit by 3 bombs you lose
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
